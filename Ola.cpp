@@ -57,7 +57,7 @@ int main() {
     do {
         cout<<"\nSistema Bancario"<<endl;
         cout<<"\n1. Mostrar todos los clientes"<<endl;
-        cout<<"2. Mostrar detalles de un cliente por número de cuenta"<<endl;
+        cout<<"2. Mostrar detalles de un cliente por numero de cuenta"<<endl;
         cout<<"3. Realizar deposito"<<endl;
         cout<<"4. Realizar retiro"<<endl;
         cout<<"5. Realizar transferencia"<<endl;
